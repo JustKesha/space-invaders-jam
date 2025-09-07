@@ -1,4 +1,4 @@
-# 👾 Space Invaders - Game Jam 🕹️
+# 👾 Cosmic Intruders - Game Jam 🕹️
 
 Small arcade 3D game inspired by the original 1978 "[Space Invaders](https://en.wikipedia.org/wiki/Space_Invaders)", made in a course of 1 day
 
